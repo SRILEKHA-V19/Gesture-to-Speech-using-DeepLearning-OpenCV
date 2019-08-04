@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/svinjamara/Documents/gesture_NN/2_model_5classes_new.tfl"
+all_model_checkpoint_paths: "/Users/svinjamara/Documents/gesture_NN/2_model_5classes_new.tfl"
